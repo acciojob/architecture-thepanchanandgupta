@@ -1,1 +1,33 @@
 /*  your css code here. If applicable */
+body {
+	background-color: lightgray;
+	width: 1100px;
+}
+
+.imageContainer {
+	display: block;
+	margin: 10px 0px 0px 10px;
+	position: relative;
+	top: 0px;
+	left: 0px;
+	width: 150px;
+}
+
+table {
+	margin: 20px
+}
+
+.col1, .col3 {
+	width: 200px;
+}
+
+.col1 img, .col3 img {
+	width: 200px;
+}
+
+
+.col2 {
+	font-weight: normal;
+	width: 600px;
+	text-align: center
+}
